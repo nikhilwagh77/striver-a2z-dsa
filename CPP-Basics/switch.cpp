@@ -1,7 +1,6 @@
 #include<iostream>
 using namespace std;
 
-// use of switch case
 int main(){
     int day;
     cin>>day;
