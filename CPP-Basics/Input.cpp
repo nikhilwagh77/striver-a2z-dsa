@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//input output
 int main() {
     //printing output
     cout << "C++ is working perfectly!";
