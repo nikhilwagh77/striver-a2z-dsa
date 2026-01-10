@@ -1,6 +1,9 @@
 #include<iostream>
 using namespace std;
 int main(){
+
+//use of for loop
+
    /* int i;
     //for loop used for repetative execution
     for(i=0;i<=10;i++){
