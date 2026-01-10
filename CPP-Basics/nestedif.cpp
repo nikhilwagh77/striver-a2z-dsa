@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
+    //nested if else taking one condtional statement into antother
     int age;
     cin>>age;
     if (age<18){
