@@ -1,6 +1,6 @@
  #include<iostream>
  using namespace std;
- //
+ //array use
  //
  int main(){
     //one dimentional array
