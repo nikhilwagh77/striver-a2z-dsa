@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+//Function By Pass by value and refrence
 
 //PASS BY VALUE
 /*
