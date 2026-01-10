@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
+    //condtional statement
     int marks;
     cin>>marks;
     if(marks<25){
