@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+//function Types
 
 /*
 void printname(string name){
